@@ -7,4 +7,6 @@
 This is the code used in the workshop.
 This can be accessed interactively using Binder with the link in the above badge.
 
+- [Joshua Soboil, A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach](https://github.com/jSoboil/Dissertation)
+
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
