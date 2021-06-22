@@ -12,4 +12,7 @@ This can be accessed interactively using Binder with the link in the above badge
 
 - [Joshua Soboil, A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach](https://github.com/jSoboil/Dissertation)
 
+- [Rose Hart, Rise and Shiny, a new dawn for HTA](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
+
+
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
