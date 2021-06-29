@@ -12,9 +12,9 @@ This can be accessed interactively using Binder with the link in the above badge
 
 For the R code corresponding to the presentations use the following links:
 
-- [Joshua Soboil - A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach](https://github.com/jSoboil/Dissertation)
+- [Joshua Soboil - _A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach_](https://github.com/jSoboil/Dissertation)
 
-- [Rose Hart - Rise and Shiny, a new dawn for HTA](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
+- [Rose Hart - _Rise and Shiny, a new dawn for HTA_](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
 
 - Robert Smith - _Rise and Shiny, a new dawn for HTA_
   * [Presentation](https://github.com/RobertASmith/talks/blob/master/R-HTA%20Rise%20%26%20Shiny%20RS.pdf)
