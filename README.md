@@ -16,5 +16,14 @@ For the R code corresponding to the presentations use the following links:
 
 - [Rose Hart - Rise and Shiny, a new dawn for HTA](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
 
+- Robert Smith - _Rise and Shiny, a new dawn for HTA_
+ * [Presentation](https://github.com/RobertASmith/talks/blob/master/R-HTA%20Rise%20%26%20Shiny%20RS.pdf)
+ * [Fancier App shown in presentation](https://darkpeakanalytics.shinyapps.io/sadm-mk2/)
+ * [R-HTA Tutorial](https://r-hta.org/tutorial/markov_models_shiny/)
+ * [GitHub Repo](https://github.com/RobertASmith/healthecon_shiny)
+ * [Peer Reviewed Paper](https://wellcomeopenresearch.org/articles/5-69)
+ * [Simple App in paper](https://robertasmith.shinyapps.io/sick_sicker/)
+ * [Package used for C++ time dependant markov models](https://github.com/RobertASmith/darkpeak)
+
 
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
