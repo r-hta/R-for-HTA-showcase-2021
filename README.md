@@ -29,4 +29,7 @@ For the R code corresponding to the presentations use the following links:
   * [Main site](https://roche.github.io/Global-HTA-Evidence-Open/Rpackages/descem/docs/articles/example_eBC.html)
   * [Repo](https://github.com/Roche/Global-HTA-Evidence-Open)
 
+- [Andrea Gabrio - _Missing Data in HE_](https://github.com/AnGabrio/Talks/tree/master/RHTA_2021)
+
+
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
