@@ -25,7 +25,7 @@ For the R code corresponding to the presentations use the following links:
   * [Simple App in paper](https://robertasmith.shinyapps.io/sick_sicker/)
   * [Package used for C++ time dependant markov models](https://github.com/RobertASmith/darkpeak)
 
-- Javier Sánchez Álvarez
+- Javier Sánchez Álvarez - _descem: Discrete Event Simulation for Cost-Effectiveness Modeling_
   * [Main site](https://roche.github.io/Global-HTA-Evidence-Open/Rpackages/descem/docs/articles/example_eBC.html)
   * [Repo](https://github.com/Roche/Global-HTA-Evidence-Open)
 
