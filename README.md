@@ -12,9 +12,9 @@ This can be accessed interactively using Binder with the link in the above badge
 
 For the R code corresponding to the presentations use the following links:
 
-- [Joshua Soboil - _A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach_](https://github.com/jSoboil/Dissertation)
+- Joshua Soboil - [_A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach_](https://github.com/jSoboil/Dissertation)
 
-- [Rose Hart - _Rise and Shiny, a new dawn for HTA_](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
+- Rose Hart - [_Rise and Shiny, a new dawn for HTA_](https://github.com/rhart1/Shiny-Briggs-HIV-model---R-in-HTA-showcase-2021/)
 
 - Robert Smith - _Rise and Shiny, a new dawn for HTA_
   * [Presentation](https://github.com/RobertASmith/talks/blob/master/R-HTA%20Rise%20%26%20Shiny%20RS.pdf)
@@ -29,7 +29,7 @@ For the R code corresponding to the presentations use the following links:
   * [Main site](https://roche.github.io/Global-HTA-Evidence-Open/Rpackages/descem/docs/articles/example_eBC.html)
   * [Repo](https://github.com/Roche/Global-HTA-Evidence-Open)
 
-- [Andrea Gabrio - _Missing Data in HE_](https://github.com/AnGabrio/Talks/tree/master/RHTA_2021)
+- Andrea Gabrio - [_Missing Data in HE_](https://github.com/AnGabrio/Talks/tree/master/RHTA_2021)
 
 
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
