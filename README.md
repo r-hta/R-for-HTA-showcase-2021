@@ -9,10 +9,9 @@
 
 ![](R_for_HTA_logo.png)
 
-This is the code used in the workshop.
-This can be accessed interactively using Binder with the link in the above badge.
+This is the code and other resources used in the workshop.
 
-For the R code corresponding to the presentations use the following links:
+For the files corresponding to the presentations use the following links:
 
 - Joshua Soboil - [_A Sensitivity Analysis Framework for Health Economic Evaluation in Middle Income Countries: Appropriately Incorporating a Comprehensive Approach_](https://github.com/jSoboil/Dissertation)
 
