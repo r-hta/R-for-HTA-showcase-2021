@@ -33,5 +33,7 @@ For the R code corresponding to the presentations use the following links:
 
 - Andrea Gabrio - [_Missing Data in HE_](https://github.com/AnGabrio/Talks/tree/master/RHTA_2021)
 
+- Hana Marie Broulikova - [_Trial-based cost-effectiveness analysis using R: A Tutorial_](https://github.com/r-hta/R-for-HTA-showcase-2021/tree/main/Hana%20Marie%20Broulikova)
+
 
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
