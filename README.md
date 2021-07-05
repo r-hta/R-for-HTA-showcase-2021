@@ -34,5 +34,6 @@ For the files corresponding to the presentations use the following links:
 
 - Hana Marie Broulikova - [_Trial-based cost-effectiveness analysis using R: A Tutorial_](https://github.com/r-hta/R-for-HTA-showcase-2021/tree/main/Hana%20Marie%20Broulikova)
 
+- Devin Incerti - [_Decision modeling with R: lessons learned from the development of hesim_](https://github.com/dincerti/r-hta-2021)
 
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
