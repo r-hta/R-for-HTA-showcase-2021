@@ -36,4 +36,6 @@ For the files corresponding to the presentations use the following links:
 
 - Devin Incerti - [_Decision modeling with R: lessons learned from the development of hesim_](https://github.com/dincerti/r-hta-2021)
 
+- Iain Bennet (Hoffmann-La Roche) - [_R code and packages to facilitate HTA in an industry context_](https://github.com/r-hta/R-for-HTA-showcase-2021/Iain-Bennett/)
+- 
 See the [main website](https://r-hta.org/events/workshop/2021/) for further details.
